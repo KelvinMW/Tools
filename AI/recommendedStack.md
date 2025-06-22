@@ -101,8 +101,6 @@ Real devs report smooth DX with T3, praising tRPC, Tailwind, Prisma, and full-st
 * Add auth before your first CRUD operations.
 * Deploy an MVP early to test real-world performance and setup.
 
-Let me know if you'd like code snippets, configurations, CI/CD setup tips, or help integrating features like WebSockets, Redis caching, CI workflows, testing, or i18n!
-
 [1]: https://create.t3.gg/?utm_source=chatgpt.com "Create T3 App"
 [2]: https://github.com/albeorla/t3-stack-project-template?utm_source=chatgpt.com "GitHub - albeorla/t3-stack-project-template: A comprehensive T3 Stack project template with TypeScript, tRPC, Prisma, NextAuth, and Tailwind CSS"
 [3]: https://t3-stack-tutorial-and-resources.vercel.app/?utm_source=chatgpt.com "T3-Stack tutorial | @AshSimmonds | NextJS, TypeScript, tRPC, Postgres, Prisma, Tailwind, nextAuth, Railway, Vercel"
