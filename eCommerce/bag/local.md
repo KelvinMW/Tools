@@ -1,3 +1,11 @@
+Install B (main repo).
+
+composer require bagisto/graphql-api:v2.3.2 inside that repo.
+
+Update middleware & .env as the docs say.
+
+Run migrations and install assets:
+
 #### 1. Set correct endpoint in `.env`
 
 Make sure your `.env` has both:
